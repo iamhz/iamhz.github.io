@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Markdown语法简介]]></title>
+    <url>%2Fmarkdown-noon%2F</url>
+    <content type="text"><![CDATA[标题123# 一级标题## 二级标题### 三级标题 字体加粗1** 需要加粗的文字 ** 斜体1* 需要斜体的文字 * 斜体加粗1*** 需要斜体加粗的文字 *** 删除线1~~ 需要加删除线的文字 ~~ 引用 引用内容1&gt; 被引用的内容 分割线 1三个 *** 图片12格式： ![alt](URL)如当前图片案例： ![picture](https://s1.ax1x.com/2018/08/06/PrugHA.jpg) 超链接博客地址12格式： [锚点文字](URL)如当前超链接案例：[博客地址](http://iamhz.coding.me/) 列表 列表内容 列表内容 有序列表内容 有序列表内容 有序列表内容 123456* + 空格 + 描述内容 （无序）* 行1数字 + . + 空格 + 描述内容 （有序）1. 列表内容2. 列表内容3. 列表内容 列表嵌套 一级列表 二级列表 三级列表 一级有序列表 二级有序列表 三级有序列表 1234567层级之前相隔三个空格* 一级列表 * 二级列表 * 三级列表1. 一级有序列表 2. 二级有序列表 3. 三级有序列表 表格 姓名 年龄 性别 小明 5 男 小红 6 女 12345格式：表头|表头|表头---|:--:|---:内容|内容|内容内容|内容|内容 代码块12345var answer = &apos;牛逼的代码&apos;;function prinit()&#123; console.log(answer); &#125;prinit();]]></content>
+      <categories>
+        <category>前端</category>
+        <category>markdown</category>
+      </categories>
+  </entry>
+</search>
